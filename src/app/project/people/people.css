@@ -1,0 +1,18 @@
+.documents-root{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.ant-table-body {
+    min-height: calc(100vh - 492px);
+}
+
+.ant-empty-image svg {
+    margin-top: calc(10vh);
+    margin-bottom: calc(5vh);
+}
+
+.ant-empty-description {
+    margin-top: calc(10vh);
+    margin-bottom: calc(5vh);
+}

@@ -1,0 +1,8 @@
+.buildings_root{
+    flex: 1;
+}
+
+.plot-frame{
+    width: 55vh;
+    height: 55vh;
+}

@@ -1,0 +1,21 @@
+.logo {
+    height: 32px;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 16px;
+  }
+
+  .root {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+  }
+  
+  .content {
+    background: #fff;
+    flex-direction: column;
+    flex: 1;
+  }
+
+  .header {
+    background: #fff;
+  }

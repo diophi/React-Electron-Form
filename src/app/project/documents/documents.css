@@ -1,0 +1,8 @@
+.documents-root{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.ant-table-body {
+    min-height: calc(100vh - 492px);
+}
